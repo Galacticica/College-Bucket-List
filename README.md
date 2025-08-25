@@ -12,6 +12,7 @@
 - [ ] Deploy a Portfolio Resume Website
 - [ ] Win a Hackathon
 - [ ] Deploy a Website for CUNE
+- [ ] Create an MCU Connection Database Graph Site
 
 ## Personal Goals
 - [ ] Start Eating Real Food
